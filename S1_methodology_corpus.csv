@@ -1,0 +1,192 @@
+ID,Title,Citation,Date,Publisher,Analyst,Committee,Executor,Learner,Router,Simulator,Stage1,Stage2,Stage3,Stage4,Stage5,Stage6
+1,The Wall Street Neophyte: A Zero-Shot Analysis of ChatGPT Over MultiModal Stock Movement Prediction Challenges,Xie2023TheWS,2023-04-09 00:00:00,arXiv,Yes,No,No,No,No,No,1,1,0,0,0,0
+2,Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models,LopezLira2023CanCF,2023-04-14 00:00:00,arXiv,Yes,No,No,No,No,No,1,1,0,0,0,0
+3,Instruct-FinGPT: Financial Sentiment Analysis by Instruction Tuning of General-Purpose Large Language Models,zhang2023instruct,2023-06-21 00:00:00,arXiv,Yes,No,No,No,No,No,0,1,0,0,0,0
+4,Unveiling the Potential of Sentiment: Can Large Language Models Predict Chinese Stock Price Movements?,zhang2023unveiling,2023-06-28 00:00:00,arXiv,Yes,No,No,No,No,No,1,1,0,0,0,0
+5,FinGPT: Democratizing Internet-scale Financial Data for Large Language Models,liu2023fingpt,2023-07-18 00:00:00,arXiv,No,No,Yes,No,No,No,1,1,0,0,0,0
+6,Alpha-GPT: Human-AI Interactive Alpha Mining for Quantitative Investment,Wang2023AlphaGPTHI,2023-07-30 00:00:00,arXiv,No,No,Yes,Yes,No,No,1,1,0,0,0,0
+7,GPT's Idea of Stock Factors,Cheng2024GPTsIO,2023-09-02 00:00:00,SSRN,Yes,No,Yes,No,No,No,1,1,1,0,0,0
+8,Enhancing financial sentiment analysis via retrieval augmented large language models,zhang2023enhancing,2023-10-05 00:00:00,arXiv,Yes,No,No,No,No,No,1,1,0,0,0,0
+9,Integrating Stock Features and Global Information via Large Language Models for Enhanced Stock Return Prediction,Ding2023IntegratingSF,2023-10-08 00:00:00,arXiv,Yes,No,No,Yes,No,No,1,1,0,0,0,0
+10,FINMEM: A Performance-Enhanced LLM Trading Agent With Layered Memory and Character Design,yu2025finmem,2023-11-22 00:00:00,arXiv,Yes,No,No,No,No,No,1,1,0,0,1,0
+11,Designing Heterogeneous LLM Agents for Financial Sentiment Analysis,xing2025designing,2024-01-10 00:00:00,arXiv,No,Yes,No,No,No,No,0,1,0,0,0,0
+12,Portfolio Performance Based on LLM News Scores and Related Economical Analysis,Wu2024PortfolioPB,2024-01-29 00:00:00,SSRN,Yes,No,No,No,No,No,0,1,0,0,0,0
+13,QuantAgent: Seeking Holy Grail in Trading by Self-Improving Large Language Model,wang2024quantagent,2024-02-05 00:00:00,arXiv,Yes,No,No,Yes,No,No,1,1,0,0,0,0
+14,Learning to Generate Explainable Stock Predictions using Self-Reflective Large Language Models,Koa2024LearningTG,2024-02-06 00:00:00,arXiv,Yes,No,No,Yes,No,No,1,1,1,0,0,0
+15,"A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist",zhang2024multimodal,2024-02-27 00:00:00,arXiv,Yes,No,Yes,No,No,No,1,1,0,0,0,0
+16,ELfolio: Strategy Evolution via Large Language Models for Portfolio Optimization,Zeng2025ELfolioSE,2025-12-22,Intelligent Computing,No,No,Yes,Yes,No,No,1,0,1,0,0,1
+17,Empowered stock market forecasting using Large Language Model on social media content,Sperl2025EmpoweredSM,2025-10-14,Engineering Applications,Yes,No,No,No,No,No,1,1,0,0,0,0
+18,FinLlama: Financial Sentiment Classification for Algorithmic Trading Applications,konstantinidis2024finllama,2024-03-18,arXiv,Yes,No,No,No,No,No,1,1,1,0,0,0
+19,RiskLabs: Predicting Financial Risk Using Large Language Model based on Multimodal and Multi-Sources Data,Cao2024RiskLabsPF,2024-04-11,arXiv,No,No,No,No,No,No,1,1,0,0,0,0
+20,Improving Retrieval for RAG based Question Answering Models on Financial Documents,Setty2024ImprovingRF,2024-04-10 00:00:00,arXiv,Yes,No,No,No,No,No,1,0,0,0,0,0
+21,FinRobot An Open-Source AI Agent Platform for Financial Applications using Large Language Models,Yang2024FinRobotLLM,2024-05-23,arXiv,No,Yes,No,No,No,No,1,1,1,0,0,0
+22,FinVerse: An Autonomous Agent System for Versatile Financial Analysis,an2024finverse,2024-06-10,arXiv,Yes,No,Yes,No,No,No,1,0,0,0,0,0
+23,LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction,Wang2024LLMFactorEP,2024-06-15 00:00:00,arXiv,Yes,No,No,No,No,No,1,1,0,0,0,0
+24,"What Teaches Robots to Walk, Teaches Them to Trade too: Regime Adaptive Execution using Informed Data and LLMs",Saqur2024WhatTR,2024-06-19 00:00:00,arXiv,Yes,No,No,Yes,No,No,1,1,0,0,0,0
+25,Stock Price Trend Prediction using Emotion Analysis of Financial Headlines with Distilled LLM Model,Bhat2024StockPT,2024-06-25 00:00:00,ACM,Yes,No,No,No,No,No,1,1,0,0,0,0
+26,CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading,li2024cryptotrade,2024-06-27 00:00:00,arXiv,No,Yes,No,No,No,No,1,1,0,0,0,0
+27,Simulating Financial Market via Large Language Model based Agents,Gao2024Simulating,2024-06-27 00:00:00,arXiv,No,No,No,No,No,Yes,0,1,0,1,0,0
+28,FINCON: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making,yu2024fincon,2024-07-09,arXiv,No,Yes,No,Yes,No,No,1,1,1,0,1,0
+29,When AI Meets Finance (StockAgent): Large Language Model-based Stock Trading in Simulated Real-world Environments,zhang2024ai,2024-07-14 00:00:00,arXiv,No,No,No,No,No,Yes,1,1,1,0,0,0
+30,Enhancing Cryptocurrency Trading Strategies: A Deep Reinforcement Learning Approach Integrating Multi-Source LLM Sentiment Analysis,du2025enhancing,2024-07-15 00:00:00,arXiv,No,No,Yes,Yes,No,No,1,1,1,0,0,0
+31,Event-Aware Sentiment Factors from LLM-Augmented Financial Tweets: A Transparent Framework for Interpretable Quant Trading,wang2025event,2024-08-09 00:00:00,arXiv,Yes,No,No,No,No,No,1,1,0,0,0,0
+32,FinNLP-AgentScen-2024 Shared Task: Financial Challenges in Large Language Models - FinLLMs,xie2024finnlp,2024-08-15 00:00:00,ACL Anthology,Yes,No,No,No,No,No,1,1,0,0,0,0
+33,Open-FinLLMs: Open Multimodal Large Language Models for Financial Applications,huang2024open,2024-08-19 00:00:00,arXiv,Yes,No,No,No,No,No,1,1,0,0,0,0
+34,Enhanced Financial Sentiment Analysis and Trading Strategy Development Using Large Language Models,Kirtac2024EnhancedFS,2024-08-25 00:00:00,ACL Anthology,Yes,No,No,No,No,No,1,1,1,0,0,0
+35,Automate Strategy Finding with LLM in Quant Investment,kou2024automate,2024-09-10 00:00:00,arXiv,No,Yes,No,Yes,No,No,1,1,1,0,0,0
+36,Empirical Asset Pricing with Large Language Model Agents,cheng2024aapm,2024-09-25,arXiv,Yes,No,No,No,No,No,1,1,0,0,0,0
+37,Exploring LLM Cryptocurrency Trading Through Fact-Subjectivity Aware Reasoning,wang2024exploring,2024-10-15 00:00:00,arXiv,No,Yes,No,No,No,No,1,1,1,0,0,0
+38,TradExpert: Revolutionizing Trading with Mixture of Expert LLMs,Ding2024TradExpertML,2024-10-15 00:00:00,arXiv,No,Yes,Yes,No,No,No,1,1,1,0,0,0
+39,Customized FinGPT Search Agents Using Foundation Models,tian2024customized,2024-10-21 00:00:00,arXiv,Yes,No,No,No,No,No,1,0,0,0,0,0
+40,FinVision: A Multi-Agent Framework for Stock Market Prediction,Fatemi2024FinVisionAM,2024-10-28 00:00:00,arXiv,No,Yes,No,No,No,No,1,1,1,0,0,0
+41,FinRobot: AI Agent for Equity Research and Valuation with Large Language Models,zhou2024finrobot,2024-11-12 00:00:00,arXiv,No,Yes,No,No,No,No,1,1,0,0,0,0
+42,FinDKG: Dynamic Knowledge Graphs with Large Language Models for Detecting Global Trends in Financial Markets,Li2024FinDKGDK,2024-07-15 00:00:00,ACM,Yes,No,No,No,No,No,1,1,1,0,0,0
+43,Financial News-Driven LLM Reinforcement Learning for Portfolio Management,Unnikrishnan2024FinancialNL,2024-11-16 00:00:00,arXiv,No,No,Yes,Yes,No,No,1,1,1,0,0,0
+44,MarketGPT: Developing a Pre-trained Transformer (GPT) for Modeling Financial Time Series,Wheeler2024MarketGPTDA,2024-11-24 00:00:00,arXiv,No,No,No,No,No,Yes,1,0,0,1,0,0
+45,INVESTORBENCH: A Benchmark for Financial Decision-Making Tasks with LLM-based Agents,li2025investorbench,2024-12-23 00:00:00,arXiv,Yes,No,No,No,No,No,1,1,0,0,0,0
+46,Sentiment trading with large language models,Kirtac2024SentimentTW,2024-12-24 00:00:00,arXiv,Yes,No,No,No,No,No,1,1,1,0,0,0
+47,TradingAgents: Multi-Agents LLM Financial Trading Framework,xiao2024tradingagents,2024-12-27 00:00:00,arXiv,No,Yes,No,No,No,No,1,1,1,0,1,0
+48,Democratizing Alpha: LLM-Driven Portfolio Construction for Retail Investors Using Public Financial Media,Oh2025DemocratizingAL,2025-11-14 00:00:00,ICAIF 2025,Yes,No,Yes,No,No,No,1,1,1,0,0,0
+49,LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management,Luo2025LLMPoweredMS,2024-12-31 00:00:00,arXiv,No,Yes,No,Yes,No,No,1,1,1,0,0,0
+50,Modeling Interactions Between Stocks Using LLM-Enhanced Graphs for Volume Prediction,Xu2025ModelingIB,2025-01-11 00:00:00,ACL Anthology,No,No,Yes,No,No,No,1,1,0,0,0,0
+51,MarketSenseAI 2.0: Enhancing Stock Analysis through LLM Agents,fatouros2025marketsenseai,2025-01-31 00:00:00,arXiv,Yes,Yes,No,No,No,No,1,1,0,0,0,0
+52,Retrieval-augmented Large Language Models for Financial Time Series Forecasting,Xiao2025Retrieval,2025-02-05 00:00:00,arXiv,Yes,No,No,No,No,No,1,1,0,0,0,0
+53,AiRacleX: Automated Detection of Price Oracle Manipulations via LLM-Driven Knowledge Mining and Prompt Generation,gao2025airaclex,2025-02-10 00:00:00,arXiv,No,Yes,No,No,No,No,1,0,0,0,0,1
+54,LOB-Bench: Benchmarking Generative AI for Finance – an Application to Limit Order Book Data,nagy2025lobbench,2025-02-12 00:00:00,arXiv,No,No,No,No,No,No,1,1,0,1,0,0
+55,FinRL-DeepSeek: LLM-Infused Risk-Sensitive Reinforcement Learning for Trading Agents,Benhenda2025FinRL,2025-02-11 00:00:00,arXiv,No,No,Yes,Yes,No,No,1,1,1,0,1,0
+56,AlphaSharpe: LLM-Driven Discovery of Robust Risk-Adjusted Metrics,yuksel2025alphasharpe,2025-02-13 00:00:00,arXiv,No,No,Yes,Yes,No,No,0,1,1,0,0,0
+57,HedgeAgents: A Balanced-aware Multi-agent Financial Trading System,li2025hedgeagents,2025-02-17,arXiv,No,Yes,No,No,No,No,1,1,1,0,1,0
+58,FLAG-TRADER: Fusion LLM-Agent with Gradient-based Reinforcement Learning for Financial Trading,xiong2025flag,2025-02-17 00:00:00,Findings of the Association for Computational Linguistics: ACL 2025,Yes,No,No,Yes,No,No,1,1,1,0,1,0
+59,AlphaAgent: LLM-Driven Alpha Mining with Regularized Exploration to Counteract Alpha Decay,tang2025alphaagent,2025-02-21 00:00:00,arXiv,No,Yes,Yes,Yes,No,No,0,1,1,0,0,0
+60,Exploring Sentiment Manipulation by LLM-Enabled Intelligent Trading Agents,byrd2025exploring,2025-02-21 00:00:00,arXiv,No,No,No,Yes,No,Yes,1,1,0,0,0,0
+61,Ethereum Price Prediction Employing Large Language Models for Short-term and Few-shot Forecasting,makri2025ethereum,2025-03-28 00:00:00,arXiv,Yes,No,No,No,No,No,1,1,0,0,0,0
+62,Dynamic Hedging Strategies in Derivatives Markets with LLM-Driven Sentiment and News Analytics,Yang2025DynamicDH,2025-04-05,arXiv,No,No,Yes,Yes,No,No,1,1,1,0,1,0
+63,"Cross-Asset Risk Management: Integrating LLMs for Real-Time Monitoring of Equity, Fixed Income, and Currency Markets",Yang2025CrossAssetRM,2025-04-04 00:00:00,arXiv,No,No,Yes,No,No,No,1,1,0,0,1,0
+64,Can Large Language Models Trade? Testing Financial Theories with LLM Agents in Market Simulations,LopezLira2025CanLL,2025-04-15 00:00:00,arXiv,No,No,No,No,No,Yes,1,1,1,1,0,0
+65,Artificial Intelligence in Day Trading: An Intraday Trading Framework with Economic Indicators and Large Language Model Analysis,chen2025artificial,2025-05-06 00:00:00,SSRN,Yes,No,Yes,No,No,No,1,1,0,0,0,0
+66,MASS: Multi-Agent Simulation Scaling for Portfolio Construction,guo2025mass,2025-05-10 00:00:00,arXiv,No,Yes,No,No,No,Yes,1,1,1,0,0,0
+67,Time Travel is Cheating: Going Live with DeepFund for Real-Time Fund Investment Benchmarking,li2025time,2025-05-16,arXiv,No,Yes,No,No,No,Yes,1,1,1,0,1,0
+68,RD-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization,Li2025RDAgentQuantAM,2025-05-20 00:00:00,arXiv,No,Yes,Yes,Yes,Yes,No,1,1,0,0,0,0
+69,Structuring the Unstructured: A Multi-Agent System for Extracting and Querying Financial KPIs and Guidance,choi2025structuring,2025-05-25,arXiv,No,No,Yes,No,No,No,1,0,0,0,0,0
+70,PulseReddit: A Novel Reddit Dataset for Benchmarking MAS in High-Frequency Cryptocurrency Trading,han2025pulsereddit,2025-06-04 00:00:00,arXiv,No,Yes,No,No,No,No,1,1,1,0,0,0
+71,The Accidental Pump and Dump: When Agentic AI Meets Autonomous Trading,Byrd2025TheAP,2025-06-16 00:00:00,ACM,No,No,No,Yes,No,Yes,0,1,0,0,0,1
+72,FinCoT: Grounding Chain-of-Thought in Expert Financial Reasoning,Nitarach2025FinCoTGC,2025-06-18 00:00:00,arXiv,Yes,No,No,No,No,No,1,1,0,0,0,0
+73,StockSim: A Dual-Mode Order-Level Simulator for Evaluating Multi-Agent LLMs in Financial Markets,Papadakis2025StockSimAD,2025-07-11 00:00:00,arXiv,No,No,No,No,No,Yes,0,0,0,1,0,0
+74,MountainLion: A Multi-Modal LLM-Based Agent System for Interpretable and Adaptive Financial Trading,wu2025mountainlion,2025-07-12 00:00:00,arXiv,No,Yes,Yes,No,No,No,1,1,0,0,0,0
+75,FinDPO: Financial Sentiment Analysis for Algorithmic Trading through Preference Optimization of LLMs,Iacovides2025FinDPOFS,2025-07-23 00:00:00,arXiv,Yes,No,No,Yes,No,No,1,1,1,0,0,0
+76,HARLF: Hierarchical Reinforcement Learning and Lightweight LLM-Driven Sentiment Integration for Financial Portfolio Optimization,Coriat2025HARLFHR,2025-07-24 00:00:00,arXiv; IJCAI 2025 FinLLM workshop manuscript,No,Yes,No,Yes,No,No,1,1,1,0,0,0
+77,ContestTrade: A Multi-Agent Trading System Based on Internal Contest Mechanism,Zhao2025ContestTradeAM,2025-07-31 00:00:00,arXiv,No,Yes,Yes,Yes,Yes,No,1,1,1,0,0,0
+78,Language Model Guided Reinforcement Learning in Quantitative Trading,darmanin2025language,2025-08-03 00:00:00,arXiv,Yes,No,No,Yes,No,No,1,1,0,0,0,1
+79,AlphaAgents: Large Language Model based Multi-Agents for Equity Portfolio Constructions,zhao2025alphaagents,2025-08-14 00:00:00,arXiv,Yes,Yes,No,No,No,No,1,1,0,0,0,0
+80,Structured Agentic Workflows for Financial Time-Series Modelling with LLMs and Reflective Feedback,ang2025structured,2025-08-18 00:00:00,arXiv,Yes,No,Yes,No,No,No,0,1,1,0,0,0
+81,TradingGroup: A Multi-Agent Trading System with Self-Reflection and Data-Synthesis,Tian2025TradingGroup,2025-08-25,arXiv,No,Yes,No,Yes,No,No,1,1,1,0,1,1
+82,MM-ARC: Multimodal Adaptive Routing of Capital with Robustness-Audited Strategy Pools,Chen2025MMDREX,2025-09-05 00:00:00,arXiv,No,No,No,No,Yes,No,1,1,1,0,0,0
+83,QuantAgent: Price-Driven Multi-Agent LLMs for High-Frequency Trading,Xiong2025QuantAgentPM,2025-09-11 00:00:00,arXiv,No,Yes,Yes,No,No,No,1,1,0,0,0,0
+84,Trading-R1: Financial Trading with LLM Reasoning via Reinforcement Learning,Xiao2025TradingR1,2025-09-14,arXiv,Yes,No,No,Yes,No,No,1,1,1,0,1,1
+85,StockBench: Can LLM Agents Trade Stocks Profitably In Real-world Markets?,chen2025stockbench,2025-10-01 00:00:00,arXiv,Yes,No,No,No,No,Yes,1,1,1,0,0,0
+86,QuantAgents: Towards Multi-agent Financial System via Simulated Trading,li2025quantagents,2025-10-06,Findings of the Association for Computational Linguistics: EMNLP 2025,No,Yes,No,Yes,No,No,1,1,1,0,1,0
+87,An Adaptive Multi-Agent Bitcoin Trading System,singhi2025adaptive,2025-10-08 00:00:00,arXiv,No,Yes,No,Yes,No,No,1,1,0,0,1,1
+88,ATLAS: Adaptive Trading with LLM AgentS Through Dynamic Prompt Optimization and Multi-Agent Coordination,Papadakis2025ATLASAT,2025-10-10 00:00:00,arXiv,No,Yes,Yes,Yes,No,No,1,1,1,1,0,1
+89,Integrating Large Language Models and Reinforcement Learning for Sentiment-Driven Quantitative Trading,Long2025IntegratingLL,2025-10-12 00:00:00,arXiv,No,No,Yes,Yes,No,No,1,1,1,0,0,0
+90,When Agents Trade: Live Multi-Market Trading Benchmark for LLM Agents,qian2025agents,2025-10-12 00:00:00,arXiv,Yes,No,No,No,No,No,1,1,1,0,0,0
+91,AlphaQuanter: An End-to-End Tool-Augmented Agentic Reinforcement Learning Framework for Stock Trading,deng2025alphaquanter,2025-10-16 00:00:00,Findings of the Association for Computational Linguistics: ACL 2026,No,No,Yes,Yes,No,No,1,1,0,0,0,1
+92,"3S-Trader: A Multi-LLM Framework for Adaptive Stock Scoring, Strategy, and Selection in Portfolio Optimization",Chen20253STraderAM,2025-10-19 00:00:00,arXiv,No,Yes,No,No,No,No,1,1,1,0,0,0
+93,News-Aware Direct Reinforcement Trading for Financial Markets,Lan2025NewsAware,2025-10-21 00:00:00,arXiv,No,No,No,Yes,No,No,1,1,0,0,0,0
+94,Agent Trading Arena: A Study on Numerical Understanding in LLM-Based Agents,ma2025agent,2025-11-02 00:00:00,EMNLP,Yes,No,No,No,No,Yes,1,1,0,0,0,0
+95,SOLID: a Framework of Synergizing Optimization and LLMs for Intelligent Decision-Making,wang2025solid,2025-11-18 00:00:00,arXiv,No,Yes,Yes,No,No,No,1,0,1,0,0,0
+96,TradeTrap: Are LLM-based Trading Agents Truly Reliable and Faithful?,yan2025tradetrap,2025-12-01 00:00:00,arXiv,No,No,No,No,No,Yes,1,1,1,0,0,0
+97,LLM-Driven Active Listwise Tournaments for Portfolio Selection in Large Asset Universes,yuksel2025llm,2025-11-30 00:00:00,SSRN,Yes,No,Yes,No,No,No,1,1,1,0,0,0
+98,LLM-Driven Qualitative Portfolio Evolution and Correlation-Aware Cluster Tournaments,yuksel2025llmtour,2025-11-30 00:00:00,SSRN,Yes,No,Yes,No,No,No,1,1,1,0,0,0
+99,AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets,Fan2025AITraderBA,2025-11-30 00:00:00,arXiv,Yes,No,No,No,No,Yes,1,1,0,0,1,0
+100,Alpha-R1: Alpha Screening with LLM Reasoning via Reinforcement Learning,jiang2025alpha,2025-12-29 00:00:00,arXiv,Yes,No,No,Yes,No,No,1,1,0,1,0,0
+101,LLM Agents Do Not Replicate Human Market Traders: Evidence From Experimental Finance,henning2025llm,2025-12-22 00:00:00,OpenReview,No,No,No,No,No,Yes,0,1,0,0,0,0
+102,An Agent Framework for Real-Time Financial Information Searching with Large Language Models,li2024agent,2024-12-14 00:00:00,arXiv,Yes,No,Yes,No,No,No,1,1,0,0,0,0
+103,Can ChatGPT assist in picking stocks?,Pelster2023CanCA,2024-01-01 00:00:00,Finance Research Letters,Yes,No,Yes,No,No,No,1,1,0,0,0,0
+104,FinCast: A Foundation Model for Financial Time-Series Forecasting,zhu2025fincast,2025-11-10 00:00:00,ACM International Conference on Information and Knowledge Management,No,No,No,No,No,No,1,1,0,0,0,0
+105,Adversarial News and Lost Profits: Manipulating Headlines in LLM-Driven Algorithmic Trading,rizvani2026adversarial,2026-01-19 00:00:00,arXiv,No,No,Yes,No,No,No,1,1,1,1,0,1
+106,Behavioral Consistency Validation for LLM Agents: An Analysis of Trading-Style Switching through Stock-Market Simulation,li2026behavioral,2026-02-02 00:00:00,arXiv,No,No,No,No,No,Yes,1,1,0,0,0,0
+107,Regret-Driven Portfolios: LLM-Guided Smart Clustering for Optimal Allocation,aarash2026regret,2026-01-16 00:00:00,ICAIF (ACM),No,No,Yes,No,No,No,1,0,1,0,1,0
+108,FinEvo: From Isolated Backtests to Ecological Market Games for Multi-Agent Financial Strategy Evolution,zou2025finevo,2026-02-01 00:00:00,arXiv,No,No,No,No,No,Yes,1,1,0,0,0,0
+109,Generative AI for Stock Selection,rasekhschaffe2026generative,2026-01-30 00:00:00,arXiv,Yes,No,Yes,No,No,No,1,1,1,0,0,0
+110,WebCryptoAgent: Agentic Crypto Trading with Web Informatics,kurban2026webcrypto,2026-01-08 00:00:00,arXiv,Yes,No,Yes,Yes,No,No,1,1,1,0,1,0
+111,Trade-R1: Bridging Verifiable Rewards to Stochastic Environments via Process-Level Reasoning Verification,sun2026trader1,2026-01-08 00:00:00,arXiv,Yes,No,No,Yes,No,No,1,1,1,0,0,0
+112,LLM Agents for Combinatorial Efficient Frontiers: Investment Portfolio Optimization,paquette2026llm,2026-01-02 00:00:00,arXiv,No,No,Yes,Yes,No,No,0,0,1,0,0,0
+113,QuantaAlpha: An Evolutionary Framework for LLM-Driven Alpha Mining,han2026quantaalpha,2026-02-10 00:00:00,arXiv,No,Yes,No,Yes,No,No,1,1,1,0,0,0
+114,LLM as a Risk Manager: LLM Semantic Filtering for Lead-Lag Trading in Prediction Markets,kim2026llm,2026-02-04 00:00:00,arXiv,Yes,No,No,No,No,No,1,1,1,0,1,0
+115,Agentic Trading: When LLM Agents Meet Financial Markets,xia2026agentic,2026-05-19,arXiv,No,No,No,No,No,No,0,0,0,0,0,1
+116,Assessing the Benefits of Optimized Agentic AI Systems for Asset Pricing,koijen2026agentic,2026-05-19,SSRN,Yes,No,No,No,No,No,1,1,0,0,0,0
+117,BacktestBench: Benchmarking Large Language Models for Automated Quantitative Strategy Backtesting,wang2026backtestbench,2026-05-18,arXiv,No,Yes,No,No,No,No,1,1,0,1,0,1
+118,The Alpha Illusion: Reported Alpha from LLM Trading Agents Should Not Be Treated as Deployment Evidence,ye2026alpha,2026-05-16,arXiv,No,No,No,No,No,No,1,1,1,1,1,1
+119,AI Managed Household Portfolios: A Preliminary Report,carlin2026household,2026-05-15,NBER,Yes,No,No,No,No,No,1,1,1,0,0,0
+120,From Feedback Loops to Policy Updates: Reinforcement Fine-Tuning for LLM-Based Alpha Factor Discovery,zhang2026quantevolver,2026-05-14,arXiv,Yes,No,No,Yes,No,No,1,1,0,0,0,0
+121,AutoRedTrader: Autonomous Red Teaming of Trading Agents through Synthetic Misinformation Injection,liu2026autoredtrader,2026-05-09,arXiv,Yes,No,No,Yes,No,No,1,1,0,0,0,1
+122,Fin-Bias: Comprehensive Evaluation for LLM Decision-Making under human bias in Finance Domain,hu2026finbias,2026-05-09,arXiv,Yes,No,No,Yes,No,Yes,1,1,0,0,0,1
+123,SHARP: A Self-Evolving Human-Auditable Rubric Policy for Financial Trading Agents,chen2026sharp,2026-05-07,arXiv,Yes,No,No,Yes,No,No,1,1,1,0,1,1
+124,Strat-LLM: Stratified Strategy Alignment for LLM-based Stock Trading with Real-time Multi-Source Signals,huang2026stratllm,2026-05-07,arXiv,Yes,No,No,No,Yes,No,1,1,1,1,1,0
+125,AlphaCrafter: A Full-Stack Multi-Agent Framework for Cross-Sectional Quantitative Trading,yuan2026alphacrafter,2026-05-07,arXiv,No,Yes,No,Yes,No,No,1,1,1,1,1,0
+126,Multi-Dimensional Behavioral Evaluation of Agentic Stock Prediction Systems Using Large Language Model Judges with Closed-Loop Reinforcement Learning Feedback,alridhawi2026behavioral,2026-05-07,arXiv,No,Yes,No,Yes,No,No,1,1,1,0,1,1
+127,Moira: Language-driven Hierarchical Reinforcement Learning for Pair Trading,giannouris2026moira,2026-05-03,arXiv,Yes,Yes,Yes,Yes,No,No,1,1,1,1,0,0
+128,AgenticAITA: A Proof-Of-Concept About Deliberative Multi-Agent Reasoning for Autonomous Trading Systems,letteri2026agenticaita,2026-05-01,arXiv,Yes,Yes,Yes,No,No,No,1,1,1,1,1,1
+129,From Hypotheses to Factors: Constrained LLM Agents in Cryptocurrency Markets,huang2026hypothesesfactors,2026-04-29,arXiv,Yes,No,No,Yes,No,No,1,1,1,1,1,1
+130,Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital,barton2026onchain,2026-04-28,arXiv,Yes,No,Yes,No,Yes,No,1,1,1,1,1,1
+131,ValueBlindBench: Agreement-Gated Stress Testing of LLM-Judged Investment Rationales Before Returns Are Observable,chang2026valueblindbench,2026-04-28,arXiv,No,No,No,No,No,No,0,0,0,0,1,1
+132,ChatGPT as a Time Capsule: The Limits of Price Discovery,lehner2026timecapsule,2026-04-23,arXiv,Yes,No,No,No,No,No,0,1,0,0,0,1
+133,Dissecting AI Trading: Behavioral Finance and Market Bubbles,ouyang2026dissecting,2026-04-20,arXiv,No,No,No,No,No,Yes,0,0,0,0,1,1
+134,Signal or Noise in Multi-Agent LLM-based Stock Recommendations?,fatouros2026signalnoise,2026-04-19,arXiv,Yes,Yes,No,No,Yes,No,1,1,1,0,0,1
+135,Learning to Trade Like an Expert: Cognitive Fine-Tuning for Stable Financial Reasoning in Language Models,pan2026cognitive,2026-04-18,arXiv,Yes,No,No,Yes,No,Yes,0,1,0,0,0,1
+136,QuantCode-Bench: A Benchmark for Evaluating the Ability of Large Language Models to Generate Executable Algorithmic Trading Strategies,khoroshilov2026quantcode,2026-04-16,arXiv,No,No,No,No,No,Yes,0,1,0,1,0,1
+137,Scalable Runtime Governance for Agentic AI in Financial Services,szpruch2026runtimegov,2026-04-13,SSRN,No,No,No,No,No,No,0,0,0,0,1,1
+138,A Review of Large Language Models for Stock Price Forecasting from a Hedge-Fund Perspective,zhang2026hfreview,2026-04-10,arXiv,No,No,No,No,No,No,1,1,1,1,1,1
+139,Machine Spirits: Speculation and Adaptation of LLM Agents in Asset Markets,saxena2026machinespirits,2026-04-09,arXiv,No,No,No,No,No,Yes,0,0,0,0,1,1
+140,SysTradeBench: An Iterative Build-Test-Patch Benchmark for Strategy-to-Code Trading Systems with Drift-Aware Diagnostics,cao2026systrade,2026-04-06,arXiv,No,No,No,No,No,Yes,0,1,0,1,1,1
+141,PolySwarm: A Multi-Agent Large Language Model Framework for Prediction Market Trading and Latency Arbitrage,barot2026polyswarm,2026-04-04,arXiv,Yes,Yes,Yes,No,No,No,1,1,1,1,1,1
+142,PolyBench: Benchmarking LLM Forecasting and Trading Capabilities on Live Prediction Market Data,cheng2026polybench,2026-04-03,arXiv,Yes,No,Yes,No,No,Yes,1,1,0,1,0,1
+143,Debiasing LLMs by Fine-tuning,gao2026debiasing,2026-04-03,arXiv,Yes,No,No,Yes,No,No,0,1,0,0,0,1
+144,The Self-Driving Portfolio: Agentic Architecture for Institutional Asset Management,ang2026selfdriving,2026-04-02,arXiv,Yes,Yes,No,Yes,No,No,1,1,1,0,1,1
+145,"Toward Reliable Evaluation of LLM-Based Financial Multi-Agent Systems: Taxonomy, Coordination Primacy, and Cost Awareness",nguyen2026reliable,2026-03-29,arXiv,No,No,No,No,No,No,0,0,1,1,0,1
+146,MemGuard-Alpha: Limits of Membership Inference for Detecting and Filtering Memorization-Contaminated Signals in LLM-Based Financial Forecasting,roy2026memguard,2026-03-26,arXiv,No,No,No,No,Yes,No,0,1,0,0,0,1
+147,Designing Agentic AI-Based Screening for Portfolio Investment,caner2026sensible,2026-03-24,arXiv,Yes,Yes,No,No,No,No,0,1,1,0,0,0
+148,TrustTrade: Human-Inspired Selective Consensus Reduces Decision Uncertainty in LLM Trading Agents,li2026trusttrade,2026-03-23,arXiv,Yes,Yes,No,No,Yes,No,0,1,1,0,1,0
+149,FinRL-X: An AI-Native Modular Infrastructure for Quantitative Trading,yang2026finrlx,2026-03-22,arXiv,No,No,Yes,Yes,Yes,Yes,1,1,1,1,1,1
+150,Learning to Aggregate Zero-Shot LLM Agents for Corporate Disclosure Classification,kirtac2026aggregate,2026-03-21,arXiv,Yes,Yes,No,Yes,No,No,1,1,0,0,0,1
+151,Large Language Models and Stock Investing: Is the Human Factor Required?,crisostomo2026humanfactor,2026-03-20,arXiv,Yes,No,No,No,No,No,0,1,0,0,0,1
+152,FinTradeBench: A Financial Reasoning Benchmark for LLMs,agrawal2026fintradebench,2026-03-19,arXiv,No,No,No,No,No,No,1,1,0,0,0,1
+153,CN-Buzz2Portfolio: A Chinese-Market Dataset and Benchmark for LLM-Based Macro and Sector Asset Allocation from Daily Trending Financial News,chen2026buzz2portfolio,2026-03-18,arXiv,Yes,No,No,No,No,No,1,1,1,0,0,1
+154,Can Blindfolded LLMs Still Trade? An Anonymization-First Framework for Portfolio Optimization,jeon2026blindtrade,2026-03-18,arXiv,Yes,Yes,No,Yes,Yes,No,1,1,1,0,0,1
+155,From Natural Language to Executable Option Strategies via Large Language Models,luo2026optionoql,2026-03-17,arXiv,Yes,No,Yes,No,No,No,0,1,1,1,0,1
+156,FactorEngine: A Program-level Knowledge-Infused Factor Mining Framework for Quantitative Investment,lin2026factorengine,2026-03-17,arXiv,Yes,Yes,No,Yes,Yes,No,1,1,1,0,0,1
+157,Beyond Prompting: An Autonomous Framework for Systematic Factor Investing via Agentic AI,huang2026beyondprompting,2026-03-15,arXiv,Yes,No,No,Yes,Yes,No,0,1,1,0,0,1
+158,"AI Agents in Financial Markets: Architecture, Applications, and Systemic Implications",gong2026aiagents,2026-03-14,arXiv,No,No,No,No,No,Yes,1,1,1,1,0,1
+159,DatedGPT: Preventing Lookahead Bias in Large Language Models with Time-Aware Pretraining,yan2026datedgpt,2026-03-12,arXiv,No,No,No,Yes,No,No,1,1,0,0,0,1
+160,Execution Is the New Attack Surface: Survivability-Aware Agentic Crypto Trading with OpenClaw-Style Local Executors,borjigin2026openclaw,2026-03-10,arXiv,No,No,Yes,No,Yes,No,0,0,0,1,1,1
+161,Constructing a Portfolio Optimization Benchmark Framework for Evaluating Large Language Models,cho2026portoptbench,2026-03-10,arXiv,No,No,No,No,No,No,0,0,1,0,0,1
+162,Apex Quant: A Multi-Agent Debate Framework For Quantitative Trading,sun2026apex,2026-03-01,SSRN,No,Yes,No,No,No,No,0,1,0,0,0,1
+163,TraderBench: How Robust Are AI Agents in Adversarial Capital Markets?,yuan2026traderbench,2026-02-27,arXiv,No,No,No,No,No,Yes,0,1,0,1,1,1
+164,Toward Expert Investment Teams: A Multi-Agent LLM System with Fine-Grained Trading Tasks,miyazaki2026expert,2026-02-26,arXiv,No,Yes,No,No,No,No,1,1,1,1,0,0
+165,Janus-Q: End-to-End Event-Driven Trading via Hierarchical-Gated Reward Modeling,li2026janusq,2026-02-23,arXiv,Yes,No,No,Yes,No,No,1,1,0,1,1,0
+166,Evaluation and Benchmarking Suite for Financial Large Language Models and Agents,lin2026finllm,2026-02-22,arXiv,No,No,No,No,No,Yes,1,1,1,1,1,1
+167,Regime-Aware Portfolio Management via Retrieval-Augmented LLM-Guided Expert Switching,asadi2026regime,2026-02-17,arXiv (inspected later version); SSRN6256103 retained as earlier work-family identity,No,No,No,Partial,Yes,No,1,1,1,0,1,0
+168,Evaluating LLMs in Finance Requires Explicit Bias Consideration,kong2026bias,2026-02-15,arXiv,No,No,No,No,No,No,1,1,1,1,1,1
+169,GeomHerd: A Forward-looking Herding Quantification via Ricci Flow Geometry on Agent Interactive Simulations,yang2026geomherd,2026-05-12,arXiv,No,No,No,No,No,Yes,0,0,0,0,1,1
+170,Coordination as an Architectural Layer for LLM-Based Multi-Agent Systems,nechepurenko2026coordination,2026-05-05,arXiv,No,Yes,No,No,Partial,No,0,1,0,0,0,1
+171,Optimal Stop-Loss and Take-Profit Parameterization for Autonomous Trading Agent Swarm,li2026stoploss,2026-04-29,arXiv,No,No,Yes,No,No,No,0,0,0,1,1,1
+172,Information Aggregation with AI Agents,galanis2026information,2026-04-21,arXiv,No,Yes,No,No,No,Yes,0,1,0,0,0,1
+173,Representation Homogeneity and Systemic Instability in AI-Dominated Financial Markets: A Structural Approach,qiu2026representation,2026-04-14,arXiv,No,No,No,No,No,Yes,0,1,0,0,1,1
+174,Beyond Polarity: Multi-Dimensional LLM Sentiment Signals for WTI Crude Oil Futures Return Prediction,dai2026beyondpolarity,2026-03-12,arXiv,Yes,No,No,No,No,No,1,1,0,0,0,0
+175,Risk-Adjusted Harm Scoring for Automated Red Teaming for LLMs in Financial Services,dimino2026rahs,2026-03-11,arXiv,No,Yes,No,No,No,Yes,0,0,0,0,1,1
+176,FinReflectKG -- HalluBench: GraphRAG Hallucination Benchmark for Financial Question Answering Systems,kumar2026finreflectkg,2026-03-11,arXiv,Yes,No,No,No,No,Yes,1,0,0,0,0,1
+177,Could Large Language Models work as Post-hoc Explainability Tools in Credit Risk Models?,geng2026posthoccredit,2026-02-21,arXiv,Yes,No,No,No,No,No,0,0,0,0,1,1
+178,Design and Empirical Study of a Large Language Model-Based Multi-Agent Investment System for Chinese Public REITs,li2026reitsmas,2026-02-01,arXiv,Yes,Yes,Yes,Yes,No,No,1,1,1,1,1,0
+179,"What LLM Trading Agents Actually Do in Production: A Six-Month, Population-Scale Record from Two Fleets",barton2026productionfleets,2026-09-04,arXiv,yes,no,yes,no,no,no,1,1,1,1,1,1
+180,AQuA: Recursively Self-Improving Quantitative Trading Research Agents,guo2026aqua,2026-08-13,arXiv,yes,no,yes,yes,no,no,1,1,1,0,0,1
+181,CSTrader: A Testbed for Language-Grounded Trading in a Community-Driven Virtual Asset Market,shi2026cstrader,2026-06-30,arXiv,no,yes,no,no,no,no,1,1,1,0,1,1
+182,Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets,ross2026riskier,2026-09-03,arXiv,no,no,no,no,no,yes,1,1,1,0,0,0
+183,EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents,kim2026evolvetrade,2026-09-15,arXiv,yes,no,yes,yes,no,no,1,1,1,0,1,1
+184,Fin-Analyst at FinMMEval 2026 Task 3: A Live Hybrid Trading Agent with LLM Specialists and Rule-Based Signals,rashid2026finanalyst,2026-07-14,arXiv,no,yes,no,no,no,no,1,1,0,0,0,1
+185,Consensus-Gated Execution: A Multi-Agent LLM Architecture for Autonomous Cryptocurrency Trading,bajgora2026cgx,2026-08-04,Electronics,no,yes,no,no,no,no,1,1,1,0,1,1
+186,FinRL-DeepSeek Revisited: A Reproduction and Multi-Seed Robustness Analysis of LLM-Infused Risk-Sensitive Trading Agents,leumale2026finrlrevisited,2026-08-04,Cambridge Open Engage,no,no,no,yes,no,no,1,1,1,0,0,0
+187,Beyond Forecasting: The Belief-to-Trade Layer in Prediction-Market Agents,wang2026ravenagent,2026-07-03,arXiv,no,no,yes,no,no,no,1,1,1,1,1,1
+188,LLM-Enhanced Dynamic Financial Knowledge Graphs for Cross-Entity Signal Propagation and alpha discovery,zhang2026dynamicfinancialkg,2026-07-12,arXiv,yes,no,yes,no,no,no,1,1,1,0,0,0
+189,Eliciting ESG Preferences for Reinforcement Learning-Based Portfolio Optimization,dispoto2026esgpreferences,2026-09-02,arXiv,yes,no,no,yes,no,no,1,0,1,0,0,0
+190,FinNextAssist: Towards Professional Financial Deep Research Assistant,li2026finnextassist,2026-10-02,arXiv,yes,no,yes,no,no,no,1,1,0,0,0,1
+191,GIFT: LLM-Guided State-Reward Interface for Financial Reinforcement Learning,wu2026gift,2026-06-07,arXiv,no,no,yes,yes,no,no,1,1,1,0,0,1

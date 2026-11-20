@@ -1,0 +1,192 @@
+citation,date,cohort,included_in_six_cohorts
+Xie2023TheWS,2023-04-09,Through 2024 H1,True
+LopezLira2023CanCF,2023-04-14,Through 2024 H1,True
+zhang2023instruct,2023-06-21,Through 2024 H1,True
+zhang2023unveiling,2023-06-28,Through 2024 H1,True
+liu2023fingpt,2023-07-18,Through 2024 H1,True
+Wang2023AlphaGPTHI,2023-07-30,Through 2024 H1,True
+Cheng2024GPTsIO,2023-09-02,Through 2024 H1,True
+zhang2023enhancing,2023-10-05,Through 2024 H1,True
+Ding2023IntegratingSF,2023-10-08,Through 2024 H1,True
+yu2025finmem,2023-11-22,Through 2024 H1,True
+xing2025designing,2024-01-10,Through 2024 H1,True
+Wu2024PortfolioPB,2024-01-29,Through 2024 H1,True
+wang2024quantagent,2024-02-05,Through 2024 H1,True
+Koa2024LearningTG,2024-02-06,Through 2024 H1,True
+zhang2024multimodal,2024-02-27,Through 2024 H1,True
+Zeng2025ELfolioSE,2025-12-22,2025 H2,True
+Sperl2025EmpoweredSM,2025-10-14,2025 H2,True
+konstantinidis2024finllama,2024-03-18,Through 2024 H1,True
+Cao2024RiskLabsPF,2024-04-11,Through 2024 H1,True
+Setty2024ImprovingRF,2024-04-10,Through 2024 H1,True
+Yang2024FinRobotLLM,2024-05-23,Through 2024 H1,True
+an2024finverse,2024-06-10,Through 2024 H1,True
+Wang2024LLMFactorEP,2024-06-15,Through 2024 H1,True
+Saqur2024WhatTR,2024-06-19,Through 2024 H1,True
+Bhat2024StockPT,2024-06-25,Through 2024 H1,True
+li2024cryptotrade,2024-06-27,Through 2024 H1,True
+Gao2024Simulating,2024-06-27,Through 2024 H1,True
+yu2024fincon,2024-07-09,2024 H2,True
+zhang2024ai,2024-07-14,2024 H2,True
+du2025enhancing,2024-07-15,2024 H2,True
+wang2025event,2024-08-09,2024 H2,True
+xie2024finnlp,2024-08-15,2024 H2,True
+huang2024open,2024-08-19,2024 H2,True
+Kirtac2024EnhancedFS,2024-08-25,2024 H2,True
+kou2024automate,2024-09-10,2024 H2,True
+cheng2024aapm,2024-09-25,2024 H2,True
+wang2024exploring,2024-10-15,2024 H2,True
+Ding2024TradExpertML,2024-10-15,2024 H2,True
+tian2024customized,2024-10-21,2024 H2,True
+Fatemi2024FinVisionAM,2024-10-28,2024 H2,True
+zhou2024finrobot,2024-11-12,2024 H2,True
+Li2024FinDKGDK,2024-07-15,2024 H2,True
+Unnikrishnan2024FinancialNL,2024-11-16,2024 H2,True
+Wheeler2024MarketGPTDA,2024-11-24,2024 H2,True
+li2025investorbench,2024-12-23,2024 H2,True
+Kirtac2024SentimentTW,2024-12-24,2024 H2,True
+xiao2024tradingagents,2024-12-27,2024 H2,True
+Oh2025DemocratizingAL,2025-11-14,2025 H2,True
+Luo2025LLMPoweredMS,2024-12-31,2024 H2,True
+Xu2025ModelingIB,2025-01-11,2025 H1,True
+fatouros2025marketsenseai,2025-01-31,2025 H1,True
+Xiao2025Retrieval,2025-02-05,2025 H1,True
+gao2025airaclex,2025-02-10,2025 H1,True
+nagy2025lobbench,2025-02-12,2025 H1,True
+Benhenda2025FinRL,2025-02-11,2025 H1,True
+yuksel2025alphasharpe,2025-02-13,2025 H1,True
+li2025hedgeagents,2025-02-17,2025 H1,True
+xiong2025flag,2025-02-17,2025 H1,True
+tang2025alphaagent,2025-02-21,2025 H1,True
+byrd2025exploring,2025-02-21,2025 H1,True
+makri2025ethereum,2025-03-28,2025 H1,True
+Yang2025DynamicDH,2025-04-05,2025 H1,True
+Yang2025CrossAssetRM,2025-04-04,2025 H1,True
+LopezLira2025CanLL,2025-04-15,2025 H1,True
+chen2025artificial,2025-05-06,2025 H1,True
+guo2025mass,2025-05-10,2025 H1,True
+li2025time,2025-05-16,2025 H1,True
+Li2025RDAgentQuantAM,2025-05-20,2025 H1,True
+choi2025structuring,2025-05-25,2025 H1,True
+han2025pulsereddit,2025-06-04,2025 H1,True
+Byrd2025TheAP,2025-06-16,2025 H1,True
+Nitarach2025FinCoTGC,2025-06-18,2025 H1,True
+Papadakis2025StockSimAD,2025-07-11,2025 H2,True
+wu2025mountainlion,2025-07-12,2025 H2,True
+Iacovides2025FinDPOFS,2025-07-23,2025 H2,True
+Coriat2025HARLFHR,2025-07-24,2025 H2,True
+Zhao2025ContestTradeAM,2025-07-31,2025 H2,True
+darmanin2025language,2025-08-03,2025 H2,True
+zhao2025alphaagents,2025-08-14,2025 H2,True
+ang2025structured,2025-08-18,2025 H2,True
+Tian2025TradingGroup,2025-08-25,2025 H2,True
+Chen2025MMDREX,2025-09-05,2025 H2,True
+Xiong2025QuantAgentPM,2025-09-11,2025 H2,True
+Xiao2025TradingR1,2025-09-14,2025 H2,True
+chen2025stockbench,2025-10-01,2025 H2,True
+li2025quantagents,2025-10-06,2025 H2,True
+singhi2025adaptive,2025-10-08,2025 H2,True
+Papadakis2025ATLASAT,2025-10-10,2025 H2,True
+Long2025IntegratingLL,2025-10-12,2025 H2,True
+qian2025agents,2025-10-12,2025 H2,True
+deng2025alphaquanter,2025-10-16,2025 H2,True
+Chen20253STraderAM,2025-10-19,2025 H2,True
+Lan2025NewsAware,2025-10-21,2025 H2,True
+ma2025agent,2025-11-02,2025 H2,True
+wang2025solid,2025-11-18,2025 H2,True
+yan2025tradetrap,2025-12-01,2025 H2,True
+yuksel2025llm,2025-11-30,2025 H2,True
+yuksel2025llmtour,2025-11-30,2025 H2,True
+Fan2025AITraderBA,2025-11-30,2025 H2,True
+jiang2025alpha,2025-12-29,2025 H2,True
+henning2025llm,2025-12-22,2025 H2,True
+li2024agent,2024-12-14,2024 H2,True
+Pelster2023CanCA,2024-01-01,Through 2024 H1,True
+zhu2025fincast,2025-11-10,2025 H2,True
+rizvani2026adversarial,2026-01-19,2026 H1,True
+li2026behavioral,2026-02-02,2026 H1,True
+aarash2026regret,2026-01-16,2026 H1,True
+zou2025finevo,2026-02-01,2026 H1,True
+rasekhschaffe2026generative,2026-01-30,2026 H1,True
+kurban2026webcrypto,2026-01-08,2026 H1,True
+sun2026trader1,2026-01-08,2026 H1,True
+paquette2026llm,2026-01-02,2026 H1,True
+han2026quantaalpha,2026-02-10,2026 H1,True
+kim2026llm,2026-02-04,2026 H1,True
+xia2026agentic,2026-05-19,2026 H1,True
+koijen2026agentic,2026-05-19,2026 H1,True
+wang2026backtestbench,2026-05-18,2026 H1,True
+ye2026alpha,2026-05-16,2026 H1,True
+carlin2026household,2026-05-15,2026 H1,True
+zhang2026quantevolver,2026-05-14,2026 H1,True
+liu2026autoredtrader,2026-05-09,2026 H1,True
+hu2026finbias,2026-05-09,2026 H1,True
+chen2026sharp,2026-05-07,2026 H1,True
+huang2026stratllm,2026-05-07,2026 H1,True
+yuan2026alphacrafter,2026-05-07,2026 H1,True
+alridhawi2026behavioral,2026-05-07,2026 H1,True
+giannouris2026moira,2026-05-03,2026 H1,True
+letteri2026agenticaita,2026-05-01,2026 H1,True
+huang2026hypothesesfactors,2026-04-29,2026 H1,True
+barton2026onchain,2026-04-28,2026 H1,True
+chang2026valueblindbench,2026-04-28,2026 H1,True
+lehner2026timecapsule,2026-04-23,2026 H1,True
+ouyang2026dissecting,2026-04-20,2026 H1,True
+fatouros2026signalnoise,2026-04-19,2026 H1,True
+pan2026cognitive,2026-04-18,2026 H1,True
+khoroshilov2026quantcode,2026-04-16,2026 H1,True
+szpruch2026runtimegov,2026-04-13,2026 H1,True
+zhang2026hfreview,2026-04-10,2026 H1,True
+saxena2026machinespirits,2026-04-09,2026 H1,True
+cao2026systrade,2026-04-06,2026 H1,True
+barot2026polyswarm,2026-04-04,2026 H1,True
+cheng2026polybench,2026-04-03,2026 H1,True
+gao2026debiasing,2026-04-03,2026 H1,True
+ang2026selfdriving,2026-04-02,2026 H1,True
+nguyen2026reliable,2026-03-29,2026 H1,True
+roy2026memguard,2026-03-26,2026 H1,True
+caner2026sensible,2026-03-24,2026 H1,True
+li2026trusttrade,2026-03-23,2026 H1,True
+yang2026finrlx,2026-03-22,2026 H1,True
+kirtac2026aggregate,2026-03-21,2026 H1,True
+crisostomo2026humanfactor,2026-03-20,2026 H1,True
+agrawal2026fintradebench,2026-03-19,2026 H1,True
+chen2026buzz2portfolio,2026-03-18,2026 H1,True
+jeon2026blindtrade,2026-03-18,2026 H1,True
+luo2026optionoql,2026-03-17,2026 H1,True
+lin2026factorengine,2026-03-17,2026 H1,True
+huang2026beyondprompting,2026-03-15,2026 H1,True
+gong2026aiagents,2026-03-14,2026 H1,True
+yan2026datedgpt,2026-03-12,2026 H1,True
+borjigin2026openclaw,2026-03-10,2026 H1,True
+cho2026portoptbench,2026-03-10,2026 H1,True
+sun2026apex,2026-03-01,2026 H1,True
+yuan2026traderbench,2026-02-27,2026 H1,True
+miyazaki2026expert,2026-02-26,2026 H1,True
+li2026janusq,2026-02-23,2026 H1,True
+lin2026finllm,2026-02-22,2026 H1,True
+asadi2026regime,2026-02-17,2026 H1,True
+kong2026bias,2026-02-15,2026 H1,True
+yang2026geomherd,2026-05-12,2026 H1,True
+nechepurenko2026coordination,2026-05-05,2026 H1,True
+li2026stoploss,2026-04-29,2026 H1,True
+galanis2026information,2026-04-21,2026 H1,True
+qiu2026representation,2026-04-14,2026 H1,True
+dai2026beyondpolarity,2026-03-12,2026 H1,True
+dimino2026rahs,2026-03-11,2026 H1,True
+kumar2026finreflectkg,2026-03-11,2026 H1,True
+geng2026posthoccredit,2026-02-21,2026 H1,True
+li2026reitsmas,2026-02-01,2026 H1,True
+barton2026productionfleets,2026-09-04,2026 H2,True
+guo2026aqua,2026-08-13,2026 H2,True
+shi2026cstrader,2026-06-30,2026 H1,True
+ross2026riskier,2026-09-03,2026 H2,True
+kim2026evolvetrade,2026-09-15,2026 H2,True
+rashid2026finanalyst,2026-07-14,2026 H2,True
+bajgora2026cgx,2026-08-04,2026 H2,True
+leumale2026finrlrevisited,2026-08-04,2026 H2,True
+wang2026ravenagent,2026-07-03,2026 H2,True
+zhang2026dynamicfinancialkg,2026-07-12,2026 H2,True
+dispoto2026esgpreferences,2026-09-02,2026 H2,True
+li2026finnextassist,2026-10-02,2026 H2,True
+wu2026gift,2026-06-07,2026 H1,True
